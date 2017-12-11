@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dream House</string>
+
+    //device type
+    <string name="str_device_type">android</string>
+
+
+    <string name="str_internet_availability">Please check internet connection.</string>
+
+
+    <!--API RestClient-->
+    <string name="str_customError">It seems there is some problem with the request. Please try again later.</string>
+    <string name="str_serverError">It seems there is some problem with the server. Please try again later.</string>
+</resources>
